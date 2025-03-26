@@ -1,0 +1,19 @@
+{
+  "name": "iare",
+  "version": "1.0.0",
+  "main": "Iare",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Teegala Saketh",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
